@@ -1,0 +1,8 @@
+Libraries:
+    pytube
+    pydub
+    ffmpeg
+    pytest
+    os
+    sys
+    PIL (pillow)
